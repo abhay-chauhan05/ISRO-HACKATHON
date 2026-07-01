@@ -1,3 +1,58 @@
+<div align="center">
+
+# ISRO NATIONAL LEVEL HACKATHON
+## Idea Submission Phase
+
+<br>
+
+### Problem Statement
+**Optimizing Urban Heat Mitigation and Cooling Strategies via Artificial Intelligence and Machine Learning (AIML)**
+
+<br>
+
+# 🛰️ ThermaSense AI
+### A Physics-Informed Geospatial AI/ML Framework for Urban Heat Diagnosis and Cooling Intervention Optimization
+
+*"From satellite pixels to street-level cooling — decisions grounded in physics, powered by AI."*
+
+<br><br>
+
+</div>
+
+| | |
+|---|---|
+| **Team Name** | **Hacker Tons** |
+| **Institution** | _[Institution Name]_ |
+| **Team Lead** | _[Name] — [Role/Email]_ |
+| **Team Member 2** | _[Name] — [Role]_ |
+| **Team Member 3** | _[Name] — [Role]_ |
+| **Team Member 4** | _[Name] — [Role]_ |
+| **Domain** | Geospatial AI/ML • Remote Sensing • Urban Climate Physics |
+| **Submission Date** | _[DD Month YYYY]_ |
+| **Document Version** | v1.0 |
+
+<div align="center">
+
+---
+
+*Submitted in fulfilment of the Idea Submission Phase requirements.*
+
+</div>
+
+---
+
+## Executive Summary
+
+Urban heat is now the deadliest climate hazard facing Indian cities. Surface Urban Heat Island (UHI) intensities routinely reach **4–10 °C**, driving heat-related mortality, straining public health, and inflating peak cooling-energy demand by 20–30%. Yet city planners lack a scalable, scientifically defensible tool to answer the decisive question: **which cooling intervention, placed exactly where, delivers the maximum temperature reduction per rupee?** Purely statistical models violate physical laws when extrapolated, while high-fidelity microclimate simulators are far too slow to optimize across an entire city.
+
+**ThermaSense AI** resolves this impasse. It is an end-to-end geospatial framework that fuses satellite Earth Observation — **Landsat 8/9** and **ECOSTRESS** for land surface temperature, **Sentinel-2** for land cover, **ERA5** for meteorology, and **OSM/GHSL** for three-dimensional urban form — to diagnose heat hotspots, quantify their drivers, and prescribe optimal cooling strategies.
+
+Our core differentiator is scientific: we embed the **surface energy balance equation directly into the loss function of a Physics-Informed Neural Network (PINN)**. This produces a fast, thermodynamically consistent **surrogate model** that runs roughly **10³–10⁴× faster** than conventional simulators. That speed is transformative — it is what finally makes **city-scale spatial optimization** tractable, allowing a genetic algorithm (NSGA-II) to evaluate thousands of candidate intervention layouts under real budget and equity constraints.
+
+The result is directly actionable intelligence for urban planners: for any budget, the system outputs the **specific intervention type** (green roofs, cool pavements, urban greening, water bodies), its **exact spatial placement**, and the **estimated temperature reduction in °C**. Built entirely on free, global satellite data, ThermaSense AI is transferable to any Indian city — advancing ISRO's mandate to convert Earth-observation data into tangible societal benefit and climate resilience.
+
+---
+
 # ThermaSense AI — Written Technical Proposal
 ### A Physics-Informed Geospatial AI/ML Framework for Urban Heat Diagnosis and Cooling Intervention Optimization
 
